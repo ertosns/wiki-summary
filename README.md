@@ -4,14 +4,14 @@ the model is based of 'attention is all you need' paper, and trained in colab on
 # train the model
 first you need to train your model, not pre-trained weight, and dataset are not added due to size limitation.
 ```cosole
-user@name:~/summarizer$ python3 ./summarizer.py -t 'New York City'
+user@name:~/summarizer$ python3 ./summarizer.py -w 'New York City'
 
 ```
 
 ## sample execution
 first you need to
 ```cosole
-user@name:~/summarizer$ python3 ./summarizer.py --train
+user@name:~/summarizer$ python3 ./summarizer.py -t
 
 ```
 
