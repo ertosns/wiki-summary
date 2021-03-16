@@ -9,7 +9,6 @@ user@name:~/summarizer$ python3 ./summarizer.py -t
 ```
 
 ## sample execution
-first you need to
 ```cosole
 user@name:~/summarizer$ python3 ./summarizer.py -w 'New York City'
 
